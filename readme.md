@@ -21,5 +21,5 @@ A **lightweight, responsive** and **localStorage-powered** To-Do Web App built w
 
 ---
 
-## 📂 Folder Structure
+
 
